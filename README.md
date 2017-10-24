@@ -1,10 +1,10 @@
 # xhlf-awesome
-本仓库受大学同学**[代码家](https://github.com/daimajia)**所运营的**[Gank.io](http://gank.io/)**启发。
+本仓库受大学同学[代码家](https://github.com/daimajia)所运营的[Gank.io](http://gank.io/)启发。
 
 ## 目录
 
-* [Daily](#Daily)
-* [Blog](#Blog)
+* [Daily](#daily)
+* [Blog](#blog)
 
 ## Daily
 
@@ -36,4 +36,5 @@
 
 ### Blog
 
-* :boy: [代码家](https://github.com/daimajia)
+* [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
+
