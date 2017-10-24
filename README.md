@@ -9,6 +9,7 @@
 |[vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)|Vuex|
 
 :date: 2017-10-23
+
 | 资源 | 分类 |
 | --- | --- |
 |[页面滚动css动画](https://github.com/matthieua/WOW)|css动画|
