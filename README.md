@@ -45,6 +45,15 @@
 |[Markdown](https://github.com/DavidWells/markdown-magic)|Markdown 扩展|
 |[Github Cards](https://github.com/lepture/github-cards)|Github 个人/仓库卡片|
 
+:date: 2017-10-31
+
+| 资源 | 备注 |
+| --- | --- |
+|[冴羽的博客](https://github.com/mqyqingfeng/Blog)| JavaScript 博客 |
+|[Node.js ES7路由](https://github.com/mtojo/node-router-decorator)| Node.js - 路由 |
+|[MobX](https://github.com/mobxjs/awesome-mobx)| MobX |
+|[不用构建工具开发Vue全家桶项目](http://refined-x.com/2017/10/28/%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E9%A1%B9%E7%9B%AE/)|Vue|
+|[用RN实现webapp](https://github.com/taobaofed/react-web)| ReactNative |
 ### Blog
 
 * [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
