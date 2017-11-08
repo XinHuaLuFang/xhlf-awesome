@@ -54,6 +54,20 @@
 |[MobX](https://github.com/mobxjs/awesome-mobx)| MobX |
 |[不用构建工具开发Vue全家桶项目](http://refined-x.com/2017/10/28/%E5%A6%82%E4%BD%95%E4%B8%8D%E7%94%A8%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E9%A1%B9%E7%9B%AE/)|Vue|
 |[用RN实现webapp](https://github.com/taobaofed/react-web)| ReactNative |
+
+:date: 2017-11-07
+
+| 资源 | 备注 |
+| --- | --- |
+|[NegativeArray](https://github.com/sindresorhus/negative-array)| JS - Array |
+
+:date: 2017-11-08
+
+| 资源 | 备注 |
+| --- | --- |
+|[JQ音乐播放](https://github.com/nswbmw/maitian)| JQ |
+|[js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) | js、svg |
+
 ### Blog
 
 * [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
