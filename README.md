@@ -68,6 +68,12 @@
 |[JQ音乐播放](https://github.com/nswbmw/maitian)| JQ |
 |[js2flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) | js、svg |
 
+:date: 2017-11-09
+
+| 资源 | 备注 |
+| --- | --- |
+|[基于 Node.js 搭建零依赖的 HTTP/2 静态文件服务器](https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/)| Node.js、HTTP/2 |
+
 ### Blog
 
 * [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
