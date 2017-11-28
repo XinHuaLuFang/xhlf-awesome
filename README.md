@@ -74,6 +74,13 @@
 | --- | --- |
 |[基于 Node.js 搭建零依赖的 HTTP/2 静态文件服务器](https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/)| Node.js、HTTP/2 |
 
+:date: 2017-11-28
+
+| 资源 | 备注 |
+| --- | --- |
+|[信任的进化](https://github.com/ncase/trust)| JS小游戏 |
+|[Progressive Web Apps](https://github.com/SangKa/PWA-Book-CN)| PWA |
+
 ### Blog
 
 * [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
