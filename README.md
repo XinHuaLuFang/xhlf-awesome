@@ -81,6 +81,13 @@
 |[信任的进化](https://github.com/ncase/trust)| JS小游戏 |
 |[Progressive Web Apps](https://github.com/SangKa/PWA-Book-CN)| PWA |
 
+:date: 2017-12-19
+
+| 资源 | 备注 |
+| --- | --- |
+|[ajax跨域](http://www.dailichun.com/2017/03/22/ajaxCrossDomainSolution.html)| Ajax跨域 |
+|[数据结构和算法可视化](https://visualgo.net/zh)| 数据结构、算法 |
+
 ### Blog
 
 * [代码家](https://daimajia.com/) [:octocat:](https://github.com/daimajia) `安卓库达人` `后端`
